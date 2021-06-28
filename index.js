@@ -1,0 +1,1 @@
+module.exports.spikieDB = require('./data/db/spikieDB')
